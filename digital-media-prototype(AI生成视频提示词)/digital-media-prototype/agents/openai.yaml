@@ -1,0 +1,4 @@
+interface:
+  display_name: "数媒立项与样片访谈"
+  short_description: "分轮追问数媒项目的关键细节并交付立项方案、原型或分镜"
+  default_prompt: "用 $digital-media-prototype 读取我提供的聊天和素材，分轮问清这个数媒项目的细节，再交付并验证一个小样。"
